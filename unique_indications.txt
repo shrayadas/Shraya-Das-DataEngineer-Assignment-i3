@@ -1,0 +1,437 @@
+AML with maturation
+AML with minimal differentiation
+AML without maturation
+Abdominal Neoplasms
+Acral Lentiginous Melanoma
+Acral Melanoma
+Actinic Keratosis
+Acute Chest Syndrome
+Acute Erythroid Leukemia
+Acute Graft Versus Host Disease
+Acute Leukemia
+Acute Lymphoblastic Leukemia
+Acute Megakaryoblastic Leukemia
+Acute Monocytic Leukemia
+Acute Myeloid Leukemia
+Acute Myelomonocytic Leukemia
+Adenocarcinoma of the Ovaries
+Adjuvant Therapy
+Adoptive Cellular Immunotherapy
+Adrenal Gland Pheochromocytoma
+Adult Supratentorial Primitive Neuroectodermal Tumor (PNET)
+Adult T-Cell Leukemia/Lymphoma
+Advanced Cancers Harbouring Mutations in HRG
+Advanced Gastrointestinal Carcinoma
+Advanced Stage Cancer
+Allogeneic Hematopoietic Stem Cell Transplantation
+Allogeneic Stem Cell Transplantation
+Alveolar Soft Part Sarcoma
+Anal Cancer
+Analgesia
+Anaplastic Astrocytoma
+Anaplastic Large Cell Lymphoma
+Anaplastic Oligodendroglioma
+Anastomotic Leak
+Androgen Receptor Gene Overexpression
+Androgen-insensitive Prostate Cancer
+Anemia
+Anemia of Pregnancy
+Anemia, Aplastic
+Anemia, Iron Deficiency
+Anemia, Sickle Cell
+Angiogenesis
+Anlotinib
+Anorectal Cancer
+Antineoplastic Agents
+Aplastic Anemia
+Atherosclerosis
+Atypical Hemolytic Uremic Syndrome
+B-Cell Non-Hodgkin Lymphoma
+BRAF V600 Mutation
+Bacterial Vaginosis
+Bile Duct Cancer
+Biliary Tract Cancer
+Bladder Cancer
+Blood Loss, Surgical
+Bone Sarcoma
+Brain Edema
+Brain Metastasis
+Break Through Pain
+Breast Cancer
+Breast Ductal Carcinoma In Situ
+Breast Neoplasm
+Breast Paget Disease
+Bronchopulmonary Dysplasia
+Bronchopulmonary Dysplasia (BPD)
+Burkitt Lymphoma
+CD147 Positive
+CDK Gene Mutation
+COVID-19
+Cancer
+Cancer Patients First-ever Acute Ischemic Stroke
+Cancer-Related Anemia
+Cancer-associated Thrombosis
+Cancers Expressing HER-2 and/or CEA
+Carcinoma of Unknown Primary
+Cardiotoxicity
+Cardiovascular Neoplasm
+Castration-Resistant Prostate Carcinoma
+Central Nervous System Embryonal Tumor
+Central Nervous System Lymphoma
+Central Nervous System Neoplasm
+Cervical Cancer
+Chemotherapeutic Agent Toxicity
+Chemotherapeutic Toxicity
+Child
+Chondrosarcoma
+Chronic Graft Versus Host Disease
+Chronic Kidney Disease
+Chronic Kidney Disease Requiring Chronic Dialysis
+Chronic Leukemia
+Chronic Lymphocytic Leukemia
+Chronic Myeloid Leukemia
+Chronic Pancreatitis
+Chronic Renal Failure
+Cirrhosis
+Classic Hodgkin Lymphoma
+Clear Cell Renal Cell Carcinoma
+Clear Cell Sarcoma
+Colon Carcinoma
+Colorectal Cancer
+Complication,Postoperative
+Conditioning
+Congenital Amegakaryocytic Thrombocytopenia
+Congenital Hyperinsulinism
+Connective and Soft Tissue Neoplasm
+Contiguous Stage II Adult Diffuse Large Cell Lymphoma
+Contiguous Stage II Adult Diffuse Mixed Cell Lymphoma
+Contiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma
+Cord Blood Transplant
+Cytokine Release Syndrome
+Cytomegaloviral Infection
+De-escalation Therapy
+Dedifferentiated Liposarcoma
+Diamond-Blackfan Anemia
+Diffuse Intrinsic Pontine Glioma
+Diffuse Large B-Cell Lymphoma
+Digestive System Neoplasm
+Double-Hit Lymphoma
+Drug/Agent Toxicity by Tissue/Organ
+Elderly
+End-Stage Renal Disease
+Endocrine Neoplasm
+Endometrial Cancer
+Endometrial Clear Cell Adenocarcinoma
+Enteropathy-Associated T-Cell Lymphoma
+Ependymoma
+Epidural Anesthesia
+Epithelial Neoplasm
+Epstein-Barr Virus Infection
+Erectile Dysfunction
+Esophageal Cancer
+Esophageal Squamous Cell Carcinoma
+Essential Thrombocythemia
+Ewing Sarcoma
+Exercise-Induced Anemia
+Extensive Stage Lung Small Cell Carcinoma
+Extrahepatic Bile Duct Carcinoma
+Extrahepatic Cholangiocarcinoma
+Extranodal Marginal Zone Lymphoma
+Eye Neoplasm
+FGFR Mutation
+FGFR2 Gene Translocation
+Fallopian Tube Cancer
+Fanconi Anemia
+Fast-track
+Female Reproductive System Neoplasm
+Fibroblast Growth Factor Basic Form Measurement
+Follicular Helper T-Cell Lymphoma, Angioimmunoblastic-Type
+Follicular Lymphoma
+Furmonertinib
+Gallbladder Carcinoma
+Gastric Cancer
+Gastro-esophageal Cancer
+Gastroesophageal Junction Cancer
+Gastrointestinal Diseases
+Gastrointestinal Stromal Tumor
+Genitourinary System Neoplasm
+Germ Cell Tumor
+Gestational Trophoblastic Neoplasia
+Glioblastoma
+Glioma
+Gliosarcoma
+Grade 1 Follicular Lymphoma
+Grade 2 Follicular Lymphoma
+Grade 3 Follicular Lymphoma
+Graft Versus Host Disease
+HER-2
+HER-2 Gene Amplification
+HER-2 Negatived Gastric Cancer
+HER-2 Protein Overexpression
+HER2-Negative Breast Cancer
+HER2-Positive Breast Cancer
+HER2-positive Gastric Cancer
+HIV Infection
+HLA-A*0201 Positive Cells Present
+Hairy Cell Leukemia
+Head and Neck Neoplasm
+Head and Neck Squamous Cell Carcinoma
+Healthy, no Evidence of Disease
+Hematology
+Hemoglobinopathies
+Hemophagocytic Lymphohistiocytosis
+Hepatectomy
+Hepatitis C
+Hepatocellular Carcinoma
+High Grade B-Cell Lymphoma
+High-Grade Glioma
+High-risk Leukemias
+Hip Fractures
+Hodgkin Lymphoma
+Hormonal Cycling
+Hormone Receptor-Positive Breast Cancer
+Human Papilloma Virus
+Hypercalcemia of Malignancy
+Hypopharyngeal Cancer
+Idiopathic Thrombocytopenic Purpura
+Immune Effector Cell Associated Neurotoxicity Syndrome
+Immune-related Adverse Event
+Indocyanine Green
+Infectious Disorder
+Inflammation
+Inflammatory Bowel Disease
+Inherited Metabolic Disease
+Internal Radiation
+Intestinal T-Cell Lymphoma
+Intraepithelial Neoplasia
+Intrahepatic Cholangiocarcinoma
+Iron-Deficiency Anemia
+KRAS G12C Mutation
+Kaposi sarcoma
+Kidney Cancer
+Kidney Disease
+Kidney Wilms Tumor
+Laryngeal Cancer
+Left Ventricular Dysfunction
+Leiomyosarcoma
+Leukemia
+Lip and Oral Cavity Cancer
+Liver Cancer
+Locally Advanced, Squamous Cell Carcinoma of the Vulva
+Long-term Outcome
+Lung Adenocarcinoma
+Lung Diseases
+Lung Non-Squamous Non-Small Cell Carcinoma
+Lymphedema
+Lymphocytic Colitis
+Lymphoma, Low-Grade
+MSS
+Maintenance
+Male Breast Cancer
+Male Reproductive System Neoplasm
+Malignant Ascites
+Malignant Epithelial Mesothelioma
+Malignant Melanoma
+Malignant Neoplasm
+Malignant Peripheral Nerve Sheath Tumor
+Malignant Tumor
+Mantle Cell Lymphoma
+Marginal Zone Lymphoma
+Medulloblastoma
+Merkel Cell Carcinoma
+Mesothelioma
+Metastases, Neoplasm
+Metastatic Melanoma
+Metastatic NSCLC
+Microsatellite Instability
+Mismatch Repair Deficiency
+Mismatch Repair Proficient
+Mucositis
+Multiple Myeloma
+Multiple Primary Lung Cancers
+Muscle Invasive Bladder Cancer
+Musculoskeletal Complications
+Musculoskeletal Disease
+Mycosis Fungoides and Sezary Syndrome
+Myelodysplastic Syndrome
+Myeloid Neoplasm
+Myeloproliferative Neoplasm
+Nasopharyngeal Cancer
+Neoadjuvant Treatment
+Neoplasm Metastasis
+Neoplasm, Experimental
+Neoplasms
+Neoplasms by Histologic Type
+Neuroendocrine Carcinoma
+Neuroendocrine Tumors
+Neurofibroma
+Neurofibromatosis
+Neurotoxicity
+Nodal Marginal Zone Lymphoma
+Non-Clear Cell Renal Cell Carcinoma
+Non-Dialysis-Dependent Chronic Kidney Disease
+Non-Hodgkin Lymphoma
+Non-Small Cell Lung Cancer
+Noncontiguous Stage II Adult Diffuse Large Cell Lymphoma
+Noncontiguous Stage II Adult Diffuse Mixed Cell Lymphoma
+Noncontiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma
+Nonneoplastic Condition
+Opportunistic Infections
+Oral Complications
+Oral Complications of Radiation Therapy
+Oropharyngeal Cancer
+Osteoid Sarcoma
+Osteopetrosis
+Osteosarcoma
+Other Hematologic Malignant Neoplasms
+Ovarian Cancer
+Ovarian Clear Cell Adenocarcinoma
+Ovarian Germ Cell Tumor
+Ovarian Sex Cord-Stromal Tumor
+Oxidative Stress
+PI3K Gene Mutation
+PI3K Pathway Inhibition
+PTEN Gene Mutation
+PTEN Hamartoma Syndrome
+PTEN Hamartoma Tumor Syndrome
+Pain, Postoperative
+Palliative Care
+Pan-tumor
+Pancreatic Cancer
+Pancreatic Diseases
+Paraganglioma
+Parathyroid Cancer
+Parenteral Nutrition
+Parkinson Disease
+Paroxysmal Nocturnal Hemoglobinuria
+Peripheral Neuropathy
+Peripheral Primitive Neuroectodermal Tumor
+Peripheral T-Cell Lymphoma, Not Otherwise Specified
+Peritoneal Malignant Mesothelioma
+Peritoneal and Retroperitoneal Neoplasm
+Periventricular Leukomalacia
+Philadelphia Chromosome Positive Acute Lymphocytic Leukemia
+Philadelphia chromosome-negative acute lymphoblastic leukemia
+Physical Performance
+Pineoblastoma
+Plasma Cell Leukemia
+Plasma Cell Neoplasm
+Plasmacytoma
+Pleural Malignant Mesothelioma
+Polycythemia Vera
+Post-Transplant Lymphoproliferative Disorder
+Postoperative Pain
+Pre-menopausal Breast Cancer
+Pregnancy Related
+Premature Birth
+Primary Amyloidosis
+Primary Cutaneous B-Cell Non-Hodgkin Lymphoma
+Primary Cutaneous T-Cell Non-Hodgkin Lymphoma
+Primary Hyperparathyroidism
+Primary Immune Thrombocytopenia
+Primary Immunodeficiency
+Primary Myelofibrosis
+Primary Peritoneal Cancer
+Pro-Inflammation
+Probiotics
+Progressive Brain Metastases
+Prostate Cancer
+Prostate Neuroendocrine Carcinoma
+ROS1 Gene Mutation
+Rare Neoplasm
+Rectal Carcinoma
+Recurrence
+Recurrent Adult Diffuse Mixed Cell Lymphoma
+Recurrent Adult Diffuse Small Cleaved Cell Lymphoma
+Recurrent Childhood Large Cell Lymphoma
+Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity
+Recurrent Lymphoepithelioma of the Oropharynx
+Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity
+Recurrent Mucosal Melanoma
+Recurrent Neuroblastoma
+Refractory Autoimmune Cytopenia(s)
+Relapsed Pediatric Solid Tumor
+Renal Cell Carcinoma
+Renal Insufficiency, Chronic
+Renal Pelvis Carcinoma
+Respiratory System Neoplasm
+Respiratory Tract Disease
+Respiratory Tract Diseases
+Rhabdomyosarcoma
+Rivaroxaban
+Salivary Gland Cancer
+Sarcoma
+Second Line Treatment of Gastric Cancer
+Sentinel Lymph Node
+Sepsis
+Severe Aplastic Anemia
+Severe Aplastic Anemia (SAA)
+Severe Congenital Neutropenia
+Sickle Cell Disease
+Skin Basal Cell Carcinoma
+Skin Melanoma
+Skin Neoplasm
+Skin Squamous Cell Carcinoma
+Skin Toxicity
+Small Cell Lung Cancer
+Small Intestinal Adenocarcinoma
+Small Intestinal Cancer
+Small Lymphocytic Lymphoma
+Smoking Cessation
+Soft Tissue Sarcoma
+Solid Tumors
+Sorafenib
+Splenic Marginal Zone Lymphoma
+Stage I Adult Diffuse Mixed Cell Lymphoma
+Stage I Adult Diffuse Small Cleaved Cell Lymphoma
+Stage III Adult Diffuse Large Cell Lymphoma
+Stage III Adult Diffuse Mixed Cell Lymphoma
+Stage III Adult Diffuse Small Cleaved Cell Lymphoma
+Stage IV Adult Diffuse Mixed Cell Lymphoma
+Stage IV Adult Diffuse Small Cleaved Cell Lymphoma
+Surgery
+Surgical Resection
+T Lymphoblastic Lymphoma
+T-Cell Large Granular Lymphocyte Leukemia
+T-Cell Non-Hodgkin Lymphoma
+T-cell acute lymphoblastic leukemia
+Testicular Cancer
+Testicular Germ Cell Cancer
+Testicular Non-Seminomatous Germ Cell Tumor
+Thalassemia
+Thoracic Neoplasm
+Thoracic Surgery
+Thrombotic Thrombocytopenic Purpura
+Thyroid Cancer
+Thyroid Cancers That Contain the PAX8-PPARgamma Fusion Gene
+Thyroid Gland Anaplastic Carcinoma
+Thyroid Gland Medullary Carcinoma
+Thyroid Gland Papillary Carcinoma
+Toripalimab
+Transformed Indolent B-Cell Non-Hodgkin Lymphoma to Diffuse Large B-Cell Lymphoma
+Transfusion-dependent Anemia
+Triple-Negative Breast Cancer
+Tumor Positron-Emission Tomography
+Tumors
+Tyrosine Kinase Inhibitor
+Underwent Surgery Within 6 Weeks and Postoperative Assessment Indicated High-risk Factors
+Untreated Childhood Supratentorial Primitive Neuroectodermal Tumor
+Ureter Urothelial Carcinoma
+Urethral Cancer
+Urinary System Neoplasm
+Urinary Tract Carcinoma
+Urinary Tract Squamous Cell Carcinoma
+Urothelial Carcinoma
+Uterine Cancer
+Uveal Melanoma
+Vascular Thrombosis
+Vaso-occlusive Crisis
+Venous Thromboembolism
+Vulvar Carcinoma
+Vulvar Melanoma
+WHO Grade 2 Glioma
+WHO Grade 3 Glioma
+WHO Grade 4 Glioma
+Waldenstrom Macroglobulinemia
+Warm Autoimmune Hemolytic Anemia
+aGVHD

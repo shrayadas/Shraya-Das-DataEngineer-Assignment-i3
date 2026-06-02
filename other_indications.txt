@@ -1,0 +1,160 @@
+AML with maturation
+AML with minimal differentiation
+AML without maturation
+Abdominal Neoplasms
+Actinic Keratosis
+Acute Chest Syndrome
+Acute Graft Versus Host Disease
+Adenocarcinoma of the Ovaries
+Adjuvant Therapy
+Adoptive Cellular Immunotherapy
+Allogeneic Hematopoietic Stem Cell Transplantation
+Allogeneic Stem Cell Transplantation
+Analgesia
+Anastomotic Leak
+Androgen Receptor Gene Overexpression
+Angiogenesis
+Anlotinib
+Antineoplastic Agents
+Atypical Hemolytic Uremic Syndrome
+Bacterial Vaginosis
+Blood Loss, Surgical
+Brain Edema
+Break Through Pain
+Bronchopulmonary Dysplasia
+Bronchopulmonary Dysplasia (BPD)
+CD147 Positive
+Carcinoma of Unknown Primary
+Cardiotoxicity
+Cardiovascular Neoplasm
+Central Nervous System Embryonal Tumor
+Central Nervous System Neoplasm
+Chemotherapeutic Agent Toxicity
+Chemotherapeutic Toxicity
+Child
+Chronic Graft Versus Host Disease
+Chronic Pancreatitis
+Cirrhosis
+Complication,Postoperative
+Conditioning
+Congenital Hyperinsulinism
+Connective and Soft Tissue Neoplasm
+Cord Blood Transplant
+Cytokine Release Syndrome
+De-escalation Therapy
+Digestive System Neoplasm
+Drug/Agent Toxicity by Tissue/Organ
+Elderly
+Endocrine Neoplasm
+Epidural Anesthesia
+Epithelial Neoplasm
+Erectile Dysfunction
+Essential Thrombocythemia
+Eye Neoplasm
+Fast-track
+Female Reproductive System Neoplasm
+Fibroblast Growth Factor Basic Form Measurement
+Furmonertinib
+Genitourinary System Neoplasm
+Germ Cell Tumor
+Graft Versus Host Disease
+HLA-A*0201 Positive Cells Present
+Healthy, no Evidence of Disease
+Hematology
+Hemophagocytic Lymphohistiocytosis
+Hepatectomy
+Hip Fractures
+Hormonal Cycling
+Human Papilloma Virus
+Hypercalcemia of Malignancy
+Idiopathic Thrombocytopenic Purpura
+Immune Effector Cell Associated Neurotoxicity Syndrome
+Immune-related Adverse Event
+Indocyanine Green
+Infectious Disorder
+Inflammatory Bowel Disease
+Inherited Metabolic Disease
+Internal Radiation
+Intraepithelial Neoplasia
+Left Ventricular Dysfunction
+Locally Advanced, Squamous Cell Carcinoma of the Vulva
+Long-term Outcome
+Lymphedema
+Lymphocytic Colitis
+MSS
+Maintenance
+Male Reproductive System Neoplasm
+Malignant Ascites
+Malignant Peripheral Nerve Sheath Tumor
+Malignant Tumor
+Metastases, Neoplasm
+Microsatellite Instability
+Mismatch Repair Deficiency
+Mismatch Repair Proficient
+Mucositis
+Musculoskeletal Complications
+Musculoskeletal Disease
+Mycosis Fungoides and Sezary Syndrome
+Myeloid Neoplasm
+Neoadjuvant Treatment
+Neoplasm Metastasis
+Neoplasm, Experimental
+Neoplasms
+Neoplasms by Histologic Type
+Neurofibroma
+Neurofibromatosis
+Neurotoxicity
+Nonneoplastic Condition
+Oral Complications
+Oral Complications of Radiation Therapy
+Osteopetrosis
+Oxidative Stress
+Pain, Postoperative
+Palliative Care
+Parenteral Nutrition
+Paroxysmal Nocturnal Hemoglobinuria
+Peripheral Neuropathy
+Peritoneal and Retroperitoneal Neoplasm
+Periventricular Leukomalacia
+Physical Performance
+Plasma Cell Neoplasm
+Polycythemia Vera
+Post-Transplant Lymphoproliferative Disorder
+Postoperative Pain
+Pregnancy Related
+Premature Birth
+Primary Amyloidosis
+Primary Immunodeficiency
+Primary Myelofibrosis
+Probiotics
+Progressive Brain Metastases
+Rare Neoplasm
+Recurrence
+Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity
+Recurrent Lymphoepithelioma of the Oropharynx
+Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity
+Recurrent Neuroblastoma
+Refractory Autoimmune Cytopenia(s)
+Relapsed Pediatric Solid Tumor
+Respiratory System Neoplasm
+Respiratory Tract Disease
+Respiratory Tract Diseases
+Rivaroxaban
+Sentinel Lymph Node
+Sepsis
+Severe Congenital Neutropenia
+Skin Toxicity
+Smoking Cessation
+Sorafenib
+Surgery
+Surgical Resection
+Thrombotic Thrombocytopenic Purpura
+Toripalimab
+Tumor Positron-Emission Tomography
+Tyrosine Kinase Inhibitor
+Underwent Surgery Within 6 Weeks and Postoperative Assessment Indicated High-risk Factors
+Urinary System Neoplasm
+Vascular Thrombosis
+Vaso-occlusive Crisis
+Venous Thromboembolism
+aGVHD
